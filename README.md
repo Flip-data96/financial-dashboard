@@ -154,6 +154,7 @@ financial-dashboard/
 │
 ├── Financial Dashboard 1.0.pbix
 ├── Financial Dashboard apresentação.pptx
+├── Sales report
 ├── README.md
 │
 └── images/
